@@ -1,0 +1,10 @@
+# Ignore the enron dataset
+enron_dataset/
+
+# Ignore the UD120 class files
+ud120-projects/
+
+# Ignore vim swap files
+*.swp
+*.swo
+
